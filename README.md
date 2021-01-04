@@ -2,7 +2,7 @@
 
 I'm working as a frontend developer from 2017.
 
-My technique skills:
+My technical skills:
 - HTML/ CSS/ SCSS
 - Javascript/ Typescript
 - ReactJS
