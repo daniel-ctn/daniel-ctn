@@ -1,6 +1,6 @@
 ### Daniel Nguyen - Frontend Developer
 
-I'm working as a frontend developer from 2017.
+I'm working as a frontend developer from 2018 March.
 
 My technical skills:
 - HTML/ CSS/ SCSS
