@@ -5,7 +5,7 @@ I'm working as a frontend developer from 2018 March.
 My main technology stacks:
 - HTML/ CSS/ SCSS
 - Javascript(ES6+)/ Typescript
-- ReactJS with Typescript, Hooks...
+- ReactJS with Typescript, Hooks, Redux...
 - Experience with Rest API using NodeJS/ ExpressJS
 - Familiar with Git/ Github
 - Familiar with Testing (Jest, Enzyme)
