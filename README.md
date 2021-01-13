@@ -12,7 +12,7 @@ My main technology stacks:
 
 Other stacks:
 - Experience in Angular(2+)
-- Experience in backend development(.NET Core, SQL Server)
+- Experience in backend development (.NET Core, SQL Server)
 
 Plus:
 - Text communication in English
