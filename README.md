@@ -6,6 +6,7 @@ My main technology stacks:
 - HTML/ CSS/ SCSS
 - Javascript (ES6+) / Typescript
 - Good experience in ReactJS with Typescript, Hooks, Redux...
+- Experience with NextJS
 - Proficiency with Rest API using NodeJS/ ExpressJS/ MongoDB
 - Familiar with Git/ Github
 - Familiar with Testing (Jest, Enzyme)
