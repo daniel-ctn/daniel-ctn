@@ -1,21 +1,25 @@
 ### Daniel Nguyen - Frontend Developer
 
-I'm working as a frontend developer from 2018 March.
+I have ~4 years of experience in developing web applications as a Frontend Developer.
 
-My main technology stacks:
-- HTML/ CSS/ SCSS
-- Javascript (ES6+) / Typescript
-- Good experience in ReactJS with Typescript, Hooks, Redux...
-- Experience with SSR using NextJS
-- Proficiency with Rest API using NodeJS/ ExpressJS/ MongoDB
-- Familiar with Git/ Github
-- Familiar with Testing (Jest, Enzyme)
+My tech stacks:
+- Javascript (ES6+), Typescript
+- ReactJS, NextJS
+- Redux, Redux-toolkit, ContextAPI, Jotai
+- SCSS, MUI, ChakraUI, Styled-components, TailwindCSS...
+- React-query, SWR...
+- RestAPI, GraphQL
+- Understanding serverless approach
+- Interested and ready to work with VueJS, Svelte
+- Basic knowledge of backend using NodeJS, ExpressJS, NestJS
+- Basic knowledge of databases using MongoDB, MySQL, PostgreSQL and related stuff such as ORM (TypeORM, Prisma) and Redis
 
-Other stacks:
-- Experience in Angular (2+)
-- Experience in backend development (.NET Core, SQL Server)
-
-Plus:
-- Text communication in English
+Others:
+- Experience working with Git, Github, Bitbucket, Jira...
+- Experience working with AWS
+- Experience using Linux
+- Can handle CI/ CD workflow with Github Actions, Bitbucket Pipeline, AWS CodePipeline...
+- Familiar with Figma, Adobe XD
+- Can woking and communicate completely in English
 
 
