@@ -8,17 +8,20 @@ My tech stacks:
 - Redux, ContextAPI...
 - SCSS, MUI, ChakraUI, Styled-components, TailwindCSS...
 - React-query, SWR, RTK Query
-- NextAuth, Auth0, AWS Cognito...
-- Experience with RESTful API, GraphQL
-- Familiar with HeadlessCMS: Strapi, Sanity.io, GraphCMS
+- Handle authentication process using NextAuth, Auth0, AWS Cognito
+- Good knowledge of RESTful / GraphQL APIs
+- Familiar with HeadlessCMS: Strapi, Sanity.io...
 - Basic knowledge of backend using NodeJS, ExpressJS
 - Basic knowledge of databases with SQL/NoSQL
 
 Others:
 - Experience with GIT source control, Agile process
 - Experience working with AWS, Firebase
-- Can handle CI/ CD workflow with CircleCI, Github Actions, AWS CodePipeline
+- Experience with CI/ CD workflow
 - Familiar with Figma, Adobe XD
-- Can woking and communicate completely in English
+
+Bonus:
+- Ability to work and communicate completely in English
+- Passion for learning and updating knowledge
 
 
