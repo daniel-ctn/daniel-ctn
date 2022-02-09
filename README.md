@@ -24,4 +24,7 @@ Bonus:
 - Ability to work and communicate completely in English
 - Passion for learning and updating knowledge
 
+---
+Connect with me:
+
 
