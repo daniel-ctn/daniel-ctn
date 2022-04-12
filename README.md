@@ -5,9 +5,9 @@ I have ~4 years of experience in developing web applications as a Frontend Devel
 My tech stacks:
 - Javascript (ES6+), Typescript
 - Strong experience with ReactJS, NextJS
-- Redux, ContextAPI...
+- Redux, ContextAPI, Zustand, Recoil
 - SCSS, MUI, ChakraUI, Styled-components, TailwindCSS...
-- React-query, SWR, RTK Query
+- React-Query, SWR, RTK Query
 - Handle authentication process using NextAuth, Auth0, AWS Cognito
 - Good knowledge of RESTful / GraphQL APIs
 - Familiar with HeadlessCMS: Strapi, Sanity.io...
@@ -19,6 +19,7 @@ Others:
 - Experience working with AWS, Firebase
 - Experience with CI/ CD workflow
 - Familiar with Figma, Adobe XD
+- Knowledge about OOP, design patterns
 
 Bonus:
 - Ability to work and communicate completely in English
