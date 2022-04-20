@@ -1,18 +1,6 @@
 ### Daniel Nguyen - Frontend Developer
 
-I have over 4 years of experience in developing web applications as a Frontend Developer.
-
-I have several experiences in building Web Applications in multiple fields such as learning platforms, booking
-websites... When developing, I tend to care about the user's perspective and want to ship nice UI/UX and smooth
-products. My desire is to expand the development field, working with more cool and interesting business ideas. I
-also want to expand my knowledge and technologies.
-
-Currently, my English is not really good (Intermediate level) and I'm trying to improve it every day. I'm a person who
-loves trying new things and challenging myself. Of course, I love coding and spend a lot of time learning and
-upgrading.
-
-After over 1 year of working from home, I realized that I can speed up my work and more productivity when I work
-in my own environment. I'm trying to improve my communication and other needed skills when working remotely.
+Here's my personal Github, where I develop some projects to practice and have fun.
 
 ---
 Connect with me:
