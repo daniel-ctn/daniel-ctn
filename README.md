@@ -1,29 +1,18 @@
 ### Daniel Nguyen - Frontend Developer
 
-I have ~4 years of experience in developing web applications as a Frontend Developer.
+I have over 4 years of experience in developing web applications as a Frontend Developer.
 
-My tech stacks:
-- Javascript (ES6+), Typescript
-- Strong experience with ReactJS, NextJS
-- Redux, ContextAPI, Zustand, Recoil
-- SCSS, MUI, ChakraUI, Styled-components, TailwindCSS...
-- React-Query, SWR, RTK Query
-- Handle authentication process using NextAuth, Auth0, AWS Cognito
-- Good knowledge of RESTful / GraphQL APIs
-- Familiar with HeadlessCMS: Strapi, Sanity.io...
-- Basic knowledge of backend using NodeJS, ExpressJS
-- Basic knowledge of databases with SQL/NoSQL
+I have several experiences in building Web Applications in multiple fields such as learning platforms, booking
+websites... When developing, I tend to care about the user's perspective and want to ship nice UI/UX and smooth
+products. My desire is to expand the development field, working with more cool and interesting business ideas. I
+also want to expand my knowledge and technologies.
 
-Others:
-- Experience with GIT source control, Agile process
-- Experience working with AWS, Firebase
-- Experience with CI/ CD workflow
-- Familiar with Figma, Adobe XD
-- Knowledge about OOP, design patterns
+Currently, my English is not really good (Intermediate level) and I'm trying to improve it every day. I'm a person who
+loves trying new things and challenging myself. Of course, I love coding and spend a lot of time learning and
+upgrading.
 
-Bonus:
-- Ability to work and communicate completely in English
-- Passion for learning and updating knowledge
+After over 1 year of working from home, I realized that I can speed up my work and more productivity when I work
+in my own environment. I'm trying to improve my communication and other needed skills when working remotely.
 
 ---
 Connect with me:
