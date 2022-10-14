@@ -1,6 +1,6 @@
 ### Daniel Nguyen - Frontend Developer
 
-Here's my personal Github, where I develop some projects to practice and have fun.
+Here's my personal Github, for hobby projects.
 
 ---
 Connect with me:
