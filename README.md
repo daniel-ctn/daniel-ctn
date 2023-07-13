@@ -1,6 +1,4 @@
-### Daniel Nguyen - Frontend Developer
-
-Here's my personal Github, for hobby projects.
+### Daniel Nguyen - Senior Frontend Developer
 
 ---
 Connect with me:
