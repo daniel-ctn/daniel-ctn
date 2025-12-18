@@ -120,14 +120,6 @@ const daniel = {
 
 <br/>
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daniel-ctn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=10B981&point=6366F1" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
 ## 🤝 Let's Connect
 
 <div align="center">
