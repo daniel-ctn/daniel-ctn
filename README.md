@@ -26,7 +26,7 @@ const daniel = {
 
   dailyTools: {
     frontend: ['React', 'Next.js', 'TailwindCSS', 'Framer Motion'],
-    web3: ['Web3.js', 'Ethers.js', 'wagmi', 'RainbowKit'],
+    web3: ['Wagmi', 'Viem', 'Ethers.js', 'RainbowKit'],
     backend: ['Node.js', 'Express', 'PostgreSQL'],
     cloud: ['Vercel', 'AWS', 'Docker'],
   },
@@ -96,19 +96,6 @@ const daniel = {
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-ctn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-ctn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniel-ctn&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=10B981&currStreakLabel=6366F1" alt="GitHub Streak"/>
-</div>
 
 <br/>
 
