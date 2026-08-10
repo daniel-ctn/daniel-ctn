@@ -114,35 +114,35 @@ AI cost monitoring for small teams — attribute spend by feature, customer, and
 <tr>
 <td width="33%" valign="top">
 
-### 🧾 [Cookd](https://cookd.work)
+### 🛡️ [AllStillGood](https://allstillgood.com)
 
-A work achievements tracker that helps professionals capture meaningful wins as they happen, then turn them into stronger performance reviews, raise discussions, or impact summaries.
+A continuous health and security watchdog that re-checks running apps after deploys, compares against a known-good baseline, and explains new or regressed issues in plain English.
 
 **Status:** Released
 
-`Work Proof` `Productivity` `AI Writing` `Career Tools`
+`Monitoring` `Security` `Deploy-aware` `Inngest`
 
 </td>
 <td width="33%" valign="top">
 
-### 🎙️ [PodCut](https://getpodcut.com)
+### 🧩 [ToolRoster](https://toolroster.com)
 
-AI-assisted podcast and audio repurposing workflow — helping creators turn long recordings into highlights, short clips, titles, summaries, and reusable content faster.
+AI governance for small teams — register approved and restricted tools, define data-handling rules, manage requests and approvals, and keep an audit-ready record without employee surveillance.
 
-**Status:** Released
+**Status:** Coming Soon
 
-`Podcast` `Content Repurposing` `AI Workflow` `Creator Tools`
+`AI Governance` `Policy` `Approvals` `Audit Trail`
 
 </td>
 <td width="33%" valign="top">
 
-### 🧭 [LodeStar](https://lodestars.app)
+### 🔐 [AccessExit](https://accessexit.com)
 
-AI visibility toolkit for SaaS builders and web owners — helping products become easier for AI agents to understand, index, and recommend when users search for relevant solutions.
+A structured offboarding workflow for small teams with owners, SLAs, access inventories, evidence collection, and an immutable completion receipt.
 
 **Status:** Released
 
-`AI Visibility` `LLM SEO` `SaaS Tooling` `Discovery`
+`Offboarding` `Access Control` `SaaS Ops` `Audit Trail`
 
 </td>
 </tr>
