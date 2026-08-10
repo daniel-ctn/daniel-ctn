@@ -129,7 +129,7 @@ A continuous health and security watchdog that re-checks running apps after depl
 
 AI governance for small teams — register approved and restricted tools, define data-handling rules, manage requests and approvals, and keep an audit-ready record without employee surveillance.
 
-**Status:** Coming Soon
+**Status:** Released
 
 `AI Governance` `Policy` `Approvals` `Audit Trail`
 
