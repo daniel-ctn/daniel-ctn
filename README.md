@@ -168,14 +168,25 @@ A structured offboarding workflow for small teams with owners, SLAs, access inve
 
 ### Backend, Data & SaaS
 
-![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-C5F74E?style=for-the-badge\&logo=drizzle\&logoColor=black)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge\&logo=neon\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
-![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74E?style=for-the-badge\&logo=drizzle\&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
+![Better Auth](https://img.shields.io/badge/Auth%20%26%20Authorization-111827?style=for-the-badge)
+
+### Platform & SaaS
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonwebservices\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge\&logo=stripe\&logoColor=white)
+![Background Jobs](https://img.shields.io/badge/Background_Jobs-334155?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-475569?style=for-the-badge)
+![Observability](https://img.shields.io/badge/Observability-64748B?style=for-the-badge)
 
 ### AI & Agentic Workflow
 
@@ -187,10 +198,6 @@ A structured offboarding workflow for small teams with owners, SLAs, access inve
 ![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
-
-### Also Exploring
-
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)
 
 </div>
 
