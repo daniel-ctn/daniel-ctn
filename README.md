@@ -18,7 +18,7 @@
 ```ts
 const daniel = {
   location: 'Vietnam 🇻🇳',
-  role: 'Senior Frontend Developer → AI SaaS Builder',
+  role: 'Senior Fullstack Developer/ AI SaaS Builder',
   experience: '9+ years',
   studio: 'Eastbase Studio',
 
