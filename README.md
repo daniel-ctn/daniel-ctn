@@ -45,9 +45,9 @@ const daniel = {
 
   dailyTools: {
     frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
-    backend: ['Next.js API', 'Drizzle', 'PostgreSQL', 'Better Auth'],
+    backend: ['NodeJS', 'NestJS', 'Drizzle', 'PostgreSQL', 'Better Auth'],
     ai: ['Vercel AI SDK', 'OpenRouter', 'OpenAI', 'Claude', 'Gemini'],
-    cloud: ['Vercel', 'Neon', 'Cloudflare R2'],
+    cloud: ['Vercel', 'AWS', 'Neon', 'Cloudflare R2'],
     workflow: ['Codex', 'Claude Code', 'Cursor'],
   },
 
